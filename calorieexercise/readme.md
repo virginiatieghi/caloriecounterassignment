@@ -12,4 +12,4 @@ Classes: this contains the final task of the exercise, creating classes (OOP Log
 
 Exceptions: contains the MealTooBigError exception (when an order contains more than 2000 calories).
 
-Notebooks: my notebook for doing some tests.
+Notebooks: my own notebook for doing some tests (not part of the assignment).
