@@ -4,7 +4,7 @@ Description of the repository structure:
 
 ExerciseCalorie1: This file contains all the tasks detailed in Notion up to store your data in Json files.
 
-Functions: this is a list of all the functions I created, which are ready to be testded.
+Functions: this is a list of all the functions I created, which are ready to be tested.
 
 Constants: this is a list of all the data (the menus) provided.
 
